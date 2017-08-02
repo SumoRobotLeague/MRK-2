@@ -4,7 +4,7 @@ The MRK-2 (Mini Robot Kit -2) brings significant upgrades mechanically and elect
 This repository contains example code, exercise solutions,
 and fully functional robot programs for the MRK-2 Sumo Robot
 Kit and board.  It is an update of the MRK-1 repository 
-created by Eric Ryan Harrison, editing to make necessary pin 
+created by Eric Ryan Harrison.  Editing to make necessary pin 
 changes and an occosional improvement to the code functionality 
 was accomplished by William J. Ashby
 
